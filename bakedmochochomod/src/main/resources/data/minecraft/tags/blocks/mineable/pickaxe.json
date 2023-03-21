@@ -1,8 +1,8 @@
 {
   "replace": false,
   "values": [
-    "bakedmochochomod:sabatate_token_block",
-    "bakedmochochomod:sabatate_statue_top",
-    "bakedmochochomod:sabatate_statue_middle"
+    "bakedmochochomod:baked_mochocho_token_block",
+    "bakedmochochomod:neko_statue_block_top",
+    "bakedmochochomod:neko_statue_block_middle"
   ]
 }
