@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "bakedmochochomod:baked_mochocho_token"
+    }
+  },
+  "result": {
+    "item": "bakedmochochomod:baked_mochocho_token_block",
+    "count": 1
+  }
+}

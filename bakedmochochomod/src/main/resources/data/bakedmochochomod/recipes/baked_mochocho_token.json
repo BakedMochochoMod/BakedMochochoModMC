@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bakedmochochomod:baked_mochocho_token_block"
+    }
+  ],
+  "result": {
+    "item": "bakedmochochomod:baked_mochocho_token",
+    "count": 9
+  }
+}

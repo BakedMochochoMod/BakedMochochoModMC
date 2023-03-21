@@ -1,0 +1,18 @@
+{
+  "itemGroup.bakedmochochomod.item": "ベイクドモチョチョModのアイテム",
+
+  "item.bakedmochochomod.baked_mochocho_token": "ベイクドモチョチョトークン",
+  "item.bakedmochochomod.baked_mochocho_token.tooltip": "†ベイクドモチョチョトークン†",
+
+  "item.bakedmochochomod.baked_mochocho_token_block": "ベイクドモチョチョトークンブロック",
+  "block.bakedmochochomod.baked_mochocho_token_block": "ベイクドモチョチョトークンブロック",
+
+  "item.bakedmochochomod.baked_mochocho": "ベイクドモチョチョ",
+  "item.bakedmochochomod.baked_mochocho.tooltip-1": "※ベイクドモチョチョの美味しさ即死級",
+  "item.bakedmochochomod.baked_mochocho.tooltip-2": "※爆発しない",
+
+  "item.bakedmochochomod.baked_mochocho_chisel": "ベイクドモチョチョノミ",
+
+  "inventory.bakedmochochomod.neko_statue_top": "ネコ石像",
+  "inventory.bakedmochochomod.neko_statue_middle": "ネコ石像"
+}

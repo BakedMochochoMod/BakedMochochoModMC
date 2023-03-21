@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TT"
+  ],
+  "key": {
+    "T": {
+      "item": "bakedmochochomod:baked_mochocho_token"
+    }
+  },
+  "result": {
+    "item": "bakedmochochomod:baked_mochocho",
+    "count": 4
+  },
+  "experience": 1,
+  "cookingtime": 90
+}

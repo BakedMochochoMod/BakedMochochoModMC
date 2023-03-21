@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# ",
+    " T"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:flint"
+    },
+    "T": {
+      "item": "bakedmochochomod:baked_mochocho_token"
+    }
+  },
+  "result": {
+    "item": "bakedmochochomod:baked_mochocho_chisel"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "bakedmochochomod:baked_mochocho_token"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "bakedmochochomod:baked_mochocho_token",
+      "bakedmochochomod:baked_mochocho_manju",
+      "bakedmochochomod:baked_mochocho_chisel",
+      "bakedmochochomod:baked_mochocho_token_block"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "bakedmochochomod:block/baked_mochocho_token_block_end",
+    "side": "bakedmochochomod:block/baked_mochocho_token_block_side"
+  }
+}

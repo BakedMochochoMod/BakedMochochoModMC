@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "torch_off=true,facing=north": { "model":  "bakedmochochomod:block/neko_statue_block_top",  "uvlock": true },
+    "torch_off=true,facing=east": { "model":  "bakedmochochomod:block/neko_statue_block_top", "y":  90, "uvlock": true },
+    "torch_off=true,facing=south": { "model":  "bakedmochochomod:block/neko_statue_block_top", "y": 180, "uvlock": true },
+    "torch_off=true,facing=west": { "model":  "bakedmochochomod:block/neko_statue_block_top", "y": 270, "uvlock": true },
+    "torch_off=false,facing=north": { "model":  "bakedmochochomod:block/neko_statue_block_top_torch",  "uvlock": true },
+    "torch_off=false,facing=east": { "model":  "bakedmochochomod:block/neko_statue_block_top_torch", "y":  90, "uvlock": true },
+    "torch_off=false,facing=south": { "model":  "bakedmochochomod:block/neko_statue_block_top_torch", "y": 180, "uvlock": true },
+    "torch_off=false,facing=west": { "model":  "bakedmochochomod:block/neko_statue_block_top_torch", "y": 270, "uvlock": true }
+  }
+}
